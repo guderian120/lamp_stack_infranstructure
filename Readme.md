@@ -28,7 +28,7 @@ This Terraform project automates the deployment of a highly available LAMP (Linu
 ## 🔗 Live Deployment
 
 The application is currently deployed and accessible at:  
-[![Live Demo](http://ecsstack-alb-860145636.eu-west-1.elb.amazonaws.com/index.php)
+![Live Demo](http://ecsstack-alb-860145636.eu-west-1.elb.amazonaws.com/index.php)
 
 ## Resource Map
 ![Resource Map](media/alb_resource_map.png)
